@@ -10,12 +10,12 @@ CÁC BƯỚC TẠO CHATBOT CƠ BẢN:
 - Deploy lên Heroku
 - Cấu hình Heroku app, Facebook App, Facebook Webhook
 - Tiến hành code các chức năng
-CÁC CHỨC NĂNG BOT
+CÁC CHỨC NĂNG BOT:
 - Trả lời các câu chào hỏi,nhu cầu cơ bản của người dùng
 - Có các nút điều hướng , hiển thị được các sản phẩm
 - Lưu thông tin người dùng
 - Đặt hàng được trực tiếp trên Bot
-CÁCH SỬ DỤNG BOT
+CÁCH SỬ DỤNG BOT:
 - Nhấn nút bắt đầu để khởi động Bot
 - Nhấn xem mẫu
 - Bot sẽ list ra các category
