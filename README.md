@@ -25,7 +25,8 @@ CÁCH SỬ DỤNG BOT:
 - Nhấn đặt hàng thì sẽ nhảy tới một cái form để người dùng điền các thông tin cần thiết để đặt hàng
 - Ngoài ra bot còn trả lời được các câu hỏi cơ bản được thiết lập sẵn
 
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/89024641/131147462-62f5290d-c8d5-4068-a7f8-26e36cc9bc4b.png)
 
 
 
