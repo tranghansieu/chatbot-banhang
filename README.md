@@ -4,7 +4,6 @@ CÁC BƯỚC TẠO CHATBOT CƠ BẢN:
 - Cài đặt Visual Studio Code và NodeJS
 - Cài đặt Heroku CLI (đã đăng ký 1 tài khoản Heroku, cái này hoàn toàn miễn phí)
 - Chạy project
-- Clone project này: git clone https://github.com/tranghansieu/chatbot-banhang.git
 - Tại thư mục root, tạo file .env
 - Nội dung file .env thì copy từ file .env.example
 - Deploy lên Heroku
